@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:65079/</loc>
+    <loc>http://localhost:1313/en/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="http://localhost:65079/de/"
+                hreflang="pt"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:65079/"
+                href="http://localhost:1313/en/"
                 />
   </url><url>
-    <loc>http://localhost:65079/license/</loc>
+    <loc>http://localhost:1313/en/license/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="http://localhost:65079/de/license/"
+                hreflang="pt"
+                href="http://localhost:1313/license/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:65079/license/"
+                href="http://localhost:1313/en/license/"
                 />
   </url><url>
-    <loc>http://localhost:65079/services/</loc>
+    <loc>http://localhost:1313/en/services/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="http://localhost:65079/de/services/"
+                hreflang="pt"
+                href="http://localhost:1313/services/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:65079/services/"
+                href="http://localhost:1313/en/services/"
                 />
   </url><url>
-    <loc>http://localhost:65079/legal/</loc>
+    <loc>http://localhost:1313/en/legal/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="http://localhost:65079/de/legal/"
+                hreflang="pt"
+                href="http://localhost:1313/legal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:65079/legal/"
+                href="http://localhost:1313/en/legal/"
                 />
   </url>
 </urlset>
