@@ -15,6 +15,6 @@ header_headline: "Gonçalo Mendonça"
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
 # Weight (i. e. position in menu): none = no menu entry, first = add as first entry, last = ad as last entry
-nav_to_top_title: "Voltar ao topo"
-nav_to_top_weight: last
+nav_to_top_title: "Home"
+nav_to_top_weight: first
 ---

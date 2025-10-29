@@ -1,7 +1,7 @@
 ---
 title: "Agenda"
 weight: 1
-header_menu: true
+header_menu: false
 ---
 
 
