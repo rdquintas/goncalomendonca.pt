@@ -9,7 +9,7 @@
   --highlight-inverse-contrast: rgb(0, 0, 0);
   /* visual guard around title and description, when the feature is enabled */
   --cover-title-and-description-guard-bg-color: rgba(255, 255, 255, 0.6);
-  --cover-title-text-shadow: white 0px 0px 7px;
+  --cover-title-text-shadow: rgb(0, 0, 0) 0px 0px 7px;
   /* === sticky top/left navigation menus === */
   --sticky-menu-text-color: #9fd067;
   /* === Alternating content (post) sections  === */
@@ -509,6 +509,9 @@ table {
 
 #outros-projectos .post-title {
   display: none; }
+
+.btn.site-menu {
+  opacity: 75%; }
 
 /* ==========================================================================
    8. Media Queries - Smaller than 1130px
