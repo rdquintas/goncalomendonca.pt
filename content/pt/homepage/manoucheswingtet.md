@@ -2,7 +2,7 @@
 title: "Manouche Swingtet"
 header_menu_title: "Manouche Swingtet"
 navigation_menu_title: "Manouche Swingtet"
-weight: 2
+weight: 20
 header_menu: true
 ---
 
@@ -28,8 +28,6 @@ A instrumentação acústica e a improvisação colectiva são predominantes, co
 {{< youtube "T_opw_FiiDE" >}}
 
 {{< youtube "IhUPvjHip50" >}}
-
-{{< youtube "JomJ9oncbls" >}}
 
 {{< youtube "KqAEMYKQI4c" >}}
 

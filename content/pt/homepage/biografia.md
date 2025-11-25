@@ -1,6 +1,6 @@
 ---
 title: "Bio e Contactos"
-weight: 6
+weight: 60
 header_menu: true
 ---
 

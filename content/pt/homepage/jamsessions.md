@@ -1,13 +1,13 @@
 ---
 title: "Jam Sessions"
-weight: 3
+weight: 30
 header_menu: true
 ---
 
-4 de Março e 18 de Março 2025
+Jam session Ma Língua, todas as 1as e 3as terças-feiras do mês  
 
 {{< figure
-  src="/images/jamsession.jpg"
+  src="/images/jamsession2.jpg"
   width="70%"  
 >}}
 

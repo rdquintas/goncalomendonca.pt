@@ -1,6 +1,6 @@
 ---
 title: "Django Reinhardt"
-weight: 5
+weight: 50
 header_menu: true
 ---
 
